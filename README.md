@@ -2,7 +2,7 @@
 
 ## Mini Project: Text Summarizer
 Student Name: Sara Khirfan, 
-Course: Generative AI Training Program  
+Course: Generative AI Training Program (HTU Upskilling Program)
 Date: 2-Dec-2025
 
 ---
