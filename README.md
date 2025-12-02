@@ -1,7 +1,7 @@
 # Lab 6 – Using GitHub Marketplace Models
 
 ## Mini Project: Text Summarizer
-Student Name: Sara Khirfan 
+Student Name: Sara Khirfan, 
 Course: Generative AI Training Program  
 Date: 2-Dec-2025
 
