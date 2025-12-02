@@ -37,10 +37,10 @@ This project takes a paragraph of text as input and uses the `gpt-4o-mini` model
 ---
 
 ## Playground Screenshot
-(assets/playground.png)
+[assets/playground.png]
 
 ## Colab Output Screenshot
-(assets/colab_output.png)
+[assets/colab_output.png]
 
 ---
 
